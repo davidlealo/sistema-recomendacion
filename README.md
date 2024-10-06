@@ -6,4 +6,4 @@ Listo! Terminado. Posibles mejoras:
 4) Hay algo que creo es fácil de resolver, pero todavía no lo hago: cuando hace el listado de estilos musicales imprime al final el primero. Tal vez ahí deberíamos hacer un tema distinto
 5) Por último quedo con la duda con el modelo, siento que Surprise nos pone limitaciones que tal vez no es la mejor forma. Por ejemplo, no siempre estaba seguro que al elegir "Me gusta" que la siguiente opción es la más parecida
 6) Por último, se podrían mejorar los botones, por ejemplo que el "Me gusta" sea un 👍 o que las personas puedan poner estrellas y así parecernos más al sistema de clasificiación. Lo que hacemos es que el weight lo transformamos en ranking con una escala de 1 a 5. Entonces tal vez si las personas pueden poner hasta 5 estrellas nos puede ayudar más. Lo otro también es que uno debería poder tener una opción de "Desconocido" porque tal vez no sé si me gusta ese artista o no
-7) 
+   

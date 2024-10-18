@@ -9,3 +9,4 @@ Listo! Terminado. Posibles mejoras:
 
 # sistema de recomendacion películas
 El sistema corre bien. Un problema es que el documento que tenemos con las plataformas puede estar un poco desactualizado. Estuvimos viendo en clases la posibilidad de hacer mejoras usando justwatch que tiene una API o haciendo un scraping. 
+Lo que hicimos para poder trabajar esto en colab es usar Surprise con una muestra de datos. Tal vez deberíamos hacer una prueba con otro método 
